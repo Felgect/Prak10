@@ -1,0 +1,14 @@
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\bin\Debug\netcoreapp3.1\Praktika10.exe
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\bin\Debug\netcoreapp3.1\Praktika10.deps.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\bin\Debug\netcoreapp3.1\Praktika10.runtimeconfig.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\bin\Debug\netcoreapp3.1\Praktika10.runtimeconfig.dev.json
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\bin\Debug\netcoreapp3.1\Praktika10.dll
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\bin\Debug\netcoreapp3.1\Praktika10.pdb
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.csproj.AssemblyReference.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.AssemblyInfoInputs.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.AssemblyInfo.cs
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.csproj.CoreCompileInputs.cache
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.dll
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.pdb
+C:\Users\Felgect.DESKTOP-8MS8RTK\source\repos\Praktika10\Praktika10\obj\Debug\netcoreapp3.1\Praktika10.genruntimeconfig.cache
